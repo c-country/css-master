@@ -16,3 +16,16 @@ a {
     font-weight: bold;
     color: #3BD5D4;
 }
+
+ul li{
+    float: left;
+    width: 158px;
+    text-align: center;
+    border-left: 1px solid gray;
+
+}
+
+ul li:last-child{
+    border-right: 1px solid gray;
+
+}
