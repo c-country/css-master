@@ -63,3 +63,6 @@ label {
 
 
 /* ------------------------------ your css ↓↓ */
+input:checked + label{
+    font-weight: bold;
+}
