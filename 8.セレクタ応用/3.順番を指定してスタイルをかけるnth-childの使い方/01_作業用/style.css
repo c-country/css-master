@@ -1,2 +1,9 @@
 /* -------------------- your css ↓↓ */
 
+div p:nth-child(2){
+    color: blue;
+}
+
+div p:nth-child(6){
+    color: yellow;
+}
