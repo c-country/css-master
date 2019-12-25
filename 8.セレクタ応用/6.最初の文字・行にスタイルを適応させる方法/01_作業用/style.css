@@ -17,3 +17,15 @@ p {
 
 
 /* -------------------- your css ↓↓ */
+
+p::first-line{
+    font-weight: bold;
+    font-size: 19px;
+    color: #3d2d51;
+}
+
+p::first-letter{
+    font-size: 80px;
+    line-height: 1;
+    float: left;
+}
