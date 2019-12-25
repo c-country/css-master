@@ -42,3 +42,6 @@ td {
 
 
 /* ------------------------------ your css ↓↓ */
+td:empty{
+    background-color: tomato;
+}
