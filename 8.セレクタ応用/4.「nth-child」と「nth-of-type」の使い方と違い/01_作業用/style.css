@@ -1,0 +1,9 @@
+/* -------------------- your css ↓↓ */
+
+div p{
+    background-color: pink;
+}
+
+div p:nth-child(2){
+    background-color: purple;
+}
